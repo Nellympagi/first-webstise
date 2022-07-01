@@ -1,0 +1,45 @@
+div.content{
+  width: 100px;
+  border: 0px solid green;
+  padding: 50px;
+  margin: 20px;
+  background-color: skyblue;
+  height: 200px;
+  float:flex;
+}
+
+
+div#first{
+	background-color: grey;
+}
+div#first:hover{
+	background-color: pink;
+}
+
+div#second{
+	background-color: skyblue;
+}
+div#second:hover{
+	background-color: purple;
+}
+
+div#third{
+	background-color: lightblue;
+}
+div#third:hover{
+	background-color: lightgreen;
+}
+
+div#forth{
+	background-color: maroon;
+}
+div#forth:hover{
+	background-color: orange;
+}
+
+div#fifth{
+	background-color: yellow;
+}
+div#fifth:hover{
+	background-color: navy;
+}
